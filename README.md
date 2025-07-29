@@ -8,7 +8,7 @@
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,arch,react,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,django,express,nodejs,sqlite,postgres,mongodb,mysql)](https://skillicons.dev)
 
 
 
