@@ -6,7 +6,9 @@
 
 - 🌱 I’m currently learning **Testing, more Linux**
 
-- 💬 Ask me about **Django, MongoDB, PostgreSQL**
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,arch,react,sqlite)](https://skillicons.dev)
 
 
 
